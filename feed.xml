@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Next.js Blog Starter]]></title>
+        <description><![CDATA[Next.js Blog Starter]]></description>
+        <link>https://blog-starter.sandypockets.dev</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 04 Apr 2023 21:37:38 GMT</lastBuildDate>
+        <atom:link href="https://blog-starter.sandypockets.dev/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rejuvenation]]></title>
+            <description><![CDATA[Rejuvenation]]></description>
+            <link>https://blog-starter.sandypockets.dev/posts/Rejuvenation</link>
+            <guid isPermaLink="true">https://blog-starter.sandypockets.dev/posts/Rejuvenation</guid>
+            <pubDate>Sat, 01 Apr 2023 05:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State of Bloom]]></title>
+            <description><![CDATA[State of Bloom]]></description>
+            <link>https://blog-starter.sandypockets.dev/posts/StateofBloom</link>
+            <guid isPermaLink="true">https://blog-starter.sandypockets.dev/posts/StateofBloom</guid>
+            <pubDate>Sat, 01 Apr 2023 05:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Surface layer]]></title>
+            <description><![CDATA[Surface layer]]></description>
+            <link>https://blog-starter.sandypockets.dev/posts/Surfacelayer</link>
+            <guid isPermaLink="true">https://blog-starter.sandypockets.dev/posts/Surfacelayer</guid>
+            <pubDate>Sat, 01 Apr 2023 05:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Circulation Condition]]></title>
+            <description><![CDATA[The prayer wheel is a musical instrument in Tibetan Buddhism, and each revolution of the wheel represents a chanting of a sutra, a blessing. In the video, the rotation of the wheel is combined with the rotation of the magazine when changing ammunition in a pistol. The two seemingly unrelated events are absurdly linked in Ye Shuhan’s image through the gesture of the spinning hand.]]></description>
+            <link>https://blog-starter.sandypockets.dev/posts/circulation</link>
+            <guid isPermaLink="true">https://blog-starter.sandypockets.dev/posts/circulation</guid>
+            <pubDate>Sun, 02 Apr 2023 05:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Habitat]]></title>
+            <description><![CDATA[Habitat]]></description>
+            <link>https://blog-starter.sandypockets.dev/posts/cover-post</link>
+            <guid isPermaLink="true">https://blog-starter.sandypockets.dev/posts/cover-post</guid>
+            <pubDate>Sun, 02 Apr 2023 05:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gasping]]></title>
+            <description><![CDATA[Gasping]]></description>
+            <link>https://blog-starter.sandypockets.dev/posts/gasping</link>
+            <guid isPermaLink="true">https://blog-starter.sandypockets.dev/posts/gasping</guid>
+            <pubDate>Sun, 02 Apr 2023 05:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In my dream, I killed Bi'ru]]></title>
+            <description><![CDATA[The prayer wheel is a musical instrument in Tibetan Buddhism, and each revolution of the wheel represents a chanting of a sutra, a blessing. In the video, the rotation of the wheel is combined with the rotation of the magazine when changing ammunition in a pistol. The two seemingly unrelated events are absurdly linked in Ye Shuhan’s image through the gesture of the spinning hand.]]></description>
+            <link>https://blog-starter.sandypockets.dev/posts/inmydream</link>
+            <guid isPermaLink="true">https://blog-starter.sandypockets.dev/posts/inmydream</guid>
+            <pubDate>Sun, 02 Apr 2023 05:35:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
